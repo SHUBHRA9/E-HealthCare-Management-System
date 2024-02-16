@@ -14,5 +14,5 @@ Main Purpose of this project :
     
     
     
-Front End - Java (Netbeans)
-Back End - MySQL (Xampp)
+Technology : Java (Netbeans) 
+             MySQL (Xampp)
